@@ -1,5 +1,5 @@
 #!/bin/bash
-#the_time_traveller's original legacy script
+#the_time_traveller's script
 
     sudo apt-get -y install libreadline-dev
     sudo apt-get -y install libncurses5-dev
